@@ -1,0 +1,6 @@
+{
+  "name": "KHP POS V4 - Kalkulator HPP & POS Kasir Terpadu",
+  "description": "Aplikasi POS & Kasir V4 terpadu dengan kalkulator HPP otomatis, manajemen stok real-time, laporan laba rugi, multi-user RBAC, dan cetak struk thermal.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
